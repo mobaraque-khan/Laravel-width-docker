@@ -53,3 +53,5 @@ volumes:
   db_data:
 
 #docker-compose up -d
+
+#https://www.youtube.com/watch?v=TmRobNEgLXo&t=398s
